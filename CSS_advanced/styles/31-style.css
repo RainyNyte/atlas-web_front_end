@@ -260,7 +260,6 @@ ul.row {
 }
 
 .card-testimonial {
-	position: relative;
 	text-align: center;
 }
 
@@ -370,7 +369,7 @@ ul.row {
 }
 
 .card-testimonial .card-quote {
-	position:absolute;
+	position:relative;
 }
 
 .card-testimonial .card-quote::before {
